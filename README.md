@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/anderssongs5/mssc-beer-service/tree/master.svg?style=svg)](https://dl.circleci.com/gh/anderssongs5/mssc-beer-service)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/anderssongs5/mssc-beer-service/tree/master.svg?style=svg)](https://circleci.com/gh/anderssongs5/mssc-beer-service)
 # MSSC Beer Service
 
 Source code in this repository is to support my online courses.
